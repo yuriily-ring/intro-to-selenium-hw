@@ -12,8 +12,12 @@ This is a homework for the Intro to Selenium
 
 3. Press `Ctrl+Alt+Shift+S` and check in your `Project Structure`
     value of `Project language level` is set to `8 - Lambdas, type annotations et.`.
-4. Complete all TODO tasks.
-5. Execute tests.
+4. Optional: try to execute Selenium IDE [script](src/test/resources/login.side)
+   from command line using [this](https://www.selenium.dev/selenium-ide/docs/en/introduction/command-line-runner) doc.
+5. Make sure that `PlainLoginTest` is running without issues, 
+   use doc reference from step 4 otherwise to install `chromedriver`
+6. Complete all TODO tasks.
+7. Execute tests.
 
 ## Selenium assignment
 

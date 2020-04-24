@@ -11,7 +11,7 @@ public class BaseTest {
 
     @BeforeClass
     public void setUp() {
-        // TODO initialize driver, open login URL, resize windows, initialize steps
+        // TODO initialize a driver, open login URL, resize windows, and initialize steps
     }
 
     @AfterClass
