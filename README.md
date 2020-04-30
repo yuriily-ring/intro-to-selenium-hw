@@ -5,7 +5,7 @@ This is a homework for the Intro to Selenium
 ## IntelliJ IDEA project configuration
 1. Clone this project to your local environment
 
-    ```git clone https://github.com/kermek/jintro-to-selenium-hw.git```
+    ```git clone https://github.com/kermek/intro-to-selenium-hw.git```
 2. Open in IntelliJ IDEA
 
     ```./gradlew openIdea```
